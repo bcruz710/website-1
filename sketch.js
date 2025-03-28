@@ -12,7 +12,7 @@ function setup() {
   triangleY = height / 5;
 }
 function draw() {
-  background(0);
+  background(1);
   //centerpoint for the road
   let centerX = width / 2;
   let centerY = height / 2;
